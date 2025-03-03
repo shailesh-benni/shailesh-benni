@@ -9,9 +9,9 @@
   <img src="https://komarev.com/ghpvc/?username=shailesh-benni&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 - 👀 To know more about me https://shaileshbenni.vercel.app</br>
-- 🌱 I’m currently learning **React JS Framework** </br>
-- 📫 How to reach me: **shaileshbenni89@gmail.com** </br>
-- ⚡ Fun fact: **💻 Coding is my chessboard, and every bug is just a puzzle waiting to be checkmated!** </br>
+- 🌱 I’m currently learning **React JS Framework </br>
+- 📫 How to reach me: shaileshbenni89@gmail.com </br>
+- ⚡ Fun fact: 💻 Coding is my chessboard, and every bug is just a puzzle waiting to be checkmated! </br>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
