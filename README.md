@@ -8,7 +8,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shailesh-benni&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-- 👀 To know more about me https://shaileshbenni.vercel.app</br>
+- 👀 To know more about me https://shaileshbenni.vercel.app</br> 
+- try chatting with bot...</br>
 - 🌱 I’m currently learning Java and Spring </br>
 - 📫 How to reach me: shaileshbenni89@gmail.com </br>
 - ⚡ Fun fact: 💻 Coding is my chessboard, and every bug is just a puzzle waiting to be checkmated! </br>
